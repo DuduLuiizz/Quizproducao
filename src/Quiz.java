@@ -52,7 +52,7 @@ public class Quiz {
         );
 
         Questao q5 = new Questao(
-                "Qual é a principal função de um equalizador (EQ) em uma mixagem?",
+                "5 - Qual é a principal função de um equalizador (EQ) em uma mixagem?",
                 "A- Aumentar a duração da música",
                 "B- Alterar a tonalidade e o equilíbrio das frequências sonoras",
                 "C- Fazer a masterização do áudio",

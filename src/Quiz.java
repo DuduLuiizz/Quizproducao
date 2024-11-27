@@ -12,7 +12,7 @@ public class Quiz {
         System.out.println(" ");
 
         Questao q1 = new Questao(
-                "Qual é o papel principal de um engenheiro de som em uma produção musical?",
+                "1 - Qual é o papel principal de um engenheiro de som em uma produção musical?",
                 "A- Criar a melodia da música",
                 "B- Mixar e masterizar o áudio gravado",
                 "C- Escrever as letras da música",
@@ -22,7 +22,7 @@ public class Quiz {
         );
 
         Questao q2 = new Questao(
-                "O que significa o termo mixagem no contexto da produção musical?",
+                "2- O que significa o termo mixagem no contexto da produção musical?",
                 "A- A gravação de instrumentos ao vivo",
                 "B- A combinação das várias faixas de áudio em uma música",
                 "C- A composição da letra",

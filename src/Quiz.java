@@ -102,7 +102,7 @@ public class Quiz {
         );
 
         Questao q10 = new Questao(
-                "O que é \"reverb\"?",
+                "10 - O que é \"reverb\"?",
                 "A- Um tipo de instrumento musical",
                 "B- Um efeito que simula o eco de um som em um espaço",
                 "C- A gravação da voz principal de uma música",

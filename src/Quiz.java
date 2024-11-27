@@ -62,7 +62,7 @@ public class Quiz {
         );
 
         Questao q6 = new Questao(
-                "O que é um sintetizador?",
+                "6 - O que é um sintetizador?",
                 "A-  Um tipo de guitarra",
                 "B- Um software de edição de áudio",
                 "C- Um instrumento que cria sons eletrônicos",

@@ -72,7 +72,7 @@ public class Quiz {
         );
 
         Questao q7 = new Questao(
-                "Qual é a diferença entre mixagem e masterização?",
+                "7 - Qual é a diferença entre mixagem e masterização?",
                 "A- A mixagem é para balancear a música, enquanto a masterização é para dar o som final e preparar a música para distribuição",
                 "B- A masterização é feita antes da mixagem",
                 "C- A mixagem envolve a gravação das faixas, enquanto a masterização é sobre efeitos",

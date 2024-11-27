@@ -32,7 +32,7 @@ public class Quiz {
         );
 
         Questao q3 = new Questao(
-                "Qual software é amplamente utilizado para a gravação e edição de músicas digitais?",
+                "3 - Qual software é amplamente utilizado para a gravação e edição de músicas digitais?",
                 "A- Photoshop",
                 "B- Final Cut Pro",
                 "C- Ableton Live",

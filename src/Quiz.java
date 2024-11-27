@@ -82,7 +82,7 @@ public class Quiz {
         );
 
         Questao q8 = new Questao(
-                "Qual é o objetivo da masterização de uma música?",
+                "8 - Qual é o objetivo da masterização de uma música?",
                 "A- Criar a melodia",
                 "B- Ajustar a dinâmica e o volume final do áudio",
                 "C- Gravar as vozes",
